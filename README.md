@@ -1,2 +1,4 @@
 # projectos_jeronimo_dio
-Todos os projectos
+Todos os desafios de projectos, imagens e links dos certificados...
+
+
